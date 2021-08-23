@@ -1,0 +1,576 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    .page {
+        min-width: 992px;
+        max-width: 1199px;
+    }
+
+    .header {
+        min-width: 950px;
+        max-width: 1100px;
+        width: 100%;
+    }
+
+    .navigation {
+        min-width: 950px;
+        max-width: 1100px;
+        width: 100%;
+    }
+
+    .logo__header {
+        width: 481px;
+    }
+    .logo__part-1 {
+        margin-left: 237px;
+    }
+
+    .logo__part-2 {
+        width: 245px;
+        height: 91px;
+        margin: -10px 118px;
+    }
+
+    .action {
+        min-width: 950px;
+        max-width: 1100px;
+        background-position: -100px;
+    }
+
+    .content {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .clasess {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .introduce {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .courses {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .courses__rectangle {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .team {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .cards {
+        width: 900px;
+    }
+
+    .card {
+        width: 300px;
+    }
+
+    .card__image {
+        width: 288px;
+        height: 415px;
+    }
+
+    .card__text {
+        margin: 20px auto;
+        width: 280px;
+    }
+
+    .new {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .reviwes {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .blog {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .rectangle_grey {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .blog__cards {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .blog_card {
+        width: 300px;
+    }
+
+    .blog__card_image {
+        width: 300px;
+    }
+
+    .blog__card_rectangle {
+        width: 300px;
+    }
+
+    .blog__card_title {
+        margin: 15px auto;
+    }
+
+    .footer {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .footer__text {
+        min-width: 950px;
+        max-width: 1100px;
+    }
+
+    .footer__decoration {
+        min-width: 950px;
+        max-width: 1100px;
+        background-size: 200px 220px;
+    }
+
+    .footer__rectangle_black {
+        min-width: 950px;
+        max-width: 1100px;
+        height: 259px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .page {
+        min-width: 768px;
+        max-width: 991px;
+    }
+
+    .header {
+        width: 850px;
+    }
+
+    .adress__header {
+        margin-left: 42px;
+    }
+
+    .navigation {
+        width: 850px;
+    }
+
+    .menu_search_icon {
+        margin-left: 0;
+    }
+
+    .menu__list {
+        margin-left: 0;
+    }
+
+    .action {
+        width: 850px;
+        background-position: -150px;
+    }
+
+    .content {
+        width: 850px;
+    }
+
+    .clasess {
+        width: 850px;
+    }
+
+    .introduce {
+        width: 850px;
+    }
+
+    .courses {
+        width: 850px;
+    }
+
+    .courses__rectangle {
+        width: 850px;
+    }
+
+    .team {
+        width: 850px;
+    }
+
+    .cards {
+        width: 795px;
+    }
+
+    .card {
+        width: 265px;
+    }
+
+    .card__image {
+        width: 253px;
+        height: 365px;
+    }
+
+    .card__text {
+        margin: 20px auto;
+        width: 245px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .new {
+        width: 850px;
+    }
+
+    .new__title {
+        width: 74px;
+        height: 40px;
+
+    }
+
+    .new__red {
+        font-size: 90px;
+        line-height: 107px;
+    }
+
+    .new__black {
+        font-size: 90px;
+        line-height: 107px;
+    }
+
+    .new_subtitle_last {
+        margin-top: -50px;
+        margin-left: 214px;
+    }
+
+    .reviwes {
+        width: 850px;
+    }
+
+    .reviwes__title {
+        margin-top: 40px;
+    }
+
+    .reviwes__card {
+        margin-top: 30px;
+        margin-bottom: 48px;
+        width: 344px;
+    }
+
+    .reviwes__card_image {
+        width: 150px;
+        height: 150px;
+    }
+
+    .reviwes__card_text {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .blog {
+        width: 850px;
+        height: 652px;
+    }
+
+    .rectangle_grey {
+        width: 850px;
+        height: 652px;
+    }
+
+    .blog__cards {
+        width: 850px;
+    }
+
+    .blog_card {
+        width: 234px;
+    }
+
+    .blog__card_image {
+        width: 234px;
+        height: 255px;
+    }
+
+    .blog__card_rectangle {
+        width: 234px;
+    }
+
+    .blog__card_title {
+        width: 224px;
+    }
+
+    .footer {
+        width: 850px;
+    }
+
+    .footer__text {
+        width: 850px;
+    }
+
+    .footer__title {
+        margin-top: 40px;
+    }
+
+    .footer__decoration {
+        width: 850px;
+        height: 200px;
+        background-size: 170px 200px;
+    }
+
+    .footer__rectangle_black {
+        width: 850px;
+        height: 259px;
+    }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+    .page {
+        min-width: 480px;
+        max-width: 767px;
+    }
+
+    .header {
+        min-width: 500px;
+        max-width: 700px;
+    }
+
+    .adress__header {
+        margin-left: 22px;
+    }
+
+    .navigation {
+        min-width: 500px;
+        max-width: 700px;
+    }
+
+    .logo__header {
+        width: 245px;
+    }
+    .logo__part-1 {
+        margin-left: 137px;
+    }
+
+    .logo__part-2 {
+        width: 245px;
+        height: 91px;
+        margin: -10px 20px;
+    }
+
+    .menu_search_icon {
+        margin-left: 100px;
+    }
+
+    .menu__list {
+        margin-left: 100px;
+    }
+
+    .action {
+        min-width: 500px;
+        max-width: 700px;
+        background-position: -250px;
+    } 
+
+    .action__title {
+        font-size: 88px;
+        line-height: 105px;
+    }
+
+    .action__subtitle_2 {
+        font-size: 34px;
+        line-height: 47px;
+    }
+    
+    .header__button {
+        width: 255px;
+        height: 55px;
+        margin-top: 67px;
+    }
+    
+    .header__link {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .content {
+        min-width: 500px;
+        max-width: 700px;
+    }
+
+    .clasess {
+        min-width: 500px;
+        max-width: 700px;;
+    } 
+
+    .clasess__title {
+        margin-top: 20px;
+        font-size: 34px;
+        line-height: 47px;
+    }
+
+    .introduce {
+        min-width: 500px;
+        max-width: 700px;
+        height: 123px;
+    }
+
+    .courses {
+        min-width: 500px;
+        max-width: 700px;
+    }
+
+    .courses__rectangle {
+        min-width: 500px;
+        max-width: 700px;
+    }
+
+    .courses__title {
+        margin-top: 25px;
+        margin-left: 15px;
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .team__title {
+        margin-top: 40px;
+    }
+
+    .team {
+        min-width: 500px;
+        max-width: 700px;
+    }
+
+    .cards {
+        width: 500px;
+    }
+
+    .card {
+        width: 175px;
+    }
+
+    .card__image {
+        width: 153px;
+        height: 265px;
+    }
+
+    .card__title {
+        margin-top: 20px;
+        font-size: 21px;
+        line-height: 30px;
+    }
+    
+    .card__subtitle {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    
+
+    .card__text {
+        margin: 15px auto;
+        width: 145px;
+    }
+
+    .new {
+        min-width: 500px;
+        max-width: 700px;
+        background-position: -90px;
+    }
+
+    .new__rectangle {
+        margin-top: 38px;
+        margin-left: 150px;
+        width: 340px;
+    }
+
+    .new__title {
+        width: 74px;
+        height: 40px;
+        margin-left: 289px;
+        margin-top: 21px;
+    }
+
+    .new__red {
+        margin-top: -20px;
+        font-size: 80px;
+        line-height: 97px;
+    }
+
+    .new__black {
+        font-size: 80px;
+        line-height: 97px;
+    }
+
+    .new_subtitle {
+        margin-top: 0px;
+    }
+
+    .new_subtitle_last {
+        margin-top: -40px;
+        margin-left: 214px;
+    }
+
+    .new__link {
+        margin-left: 271px;
+    }
+
+    .reviwes {
+        min-width: 500px;
+        max-width: 700px;
+    }
+
+    .blog {
+        min-width: 500px;
+        max-width: 700px;
+    }
+
+    .rectangle_grey {
+        min-width: 500px;
+        max-width: 700px;
+    }//!
+
+    .blog__cards {
+        width: 480px;
+    }
+
+    .blog_card {
+        width: 170px;
+    }
+
+    .blog__card_image {
+        width: 170px;
+        height: 155px;
+    }
+
+    .blog__card_rectangle {
+        width: 150px;
+    }
+
+    .blog__card_title {
+        width: 150px;
+    }
+
+    .footer {
+        width: 600px;
+    }
+
+    .footer__text {
+        width: 600px;
+    }
+
+    .footer__title {
+        margin-top: 40px;
+    }
+
+    .footer__decoration {
+        width: 600px;
+        height: 200px;
+        background-size: 170px 200px;
+    }
+
+    .footer__rectangle_black {
+        width: 600px;
+        height: 259px;
+    }
+}
